@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <title>Crypto_forex_AI</title>
+</head>
+<body>
+    <h1>Καλώς ήρθατε στο Crypto_forex_AI</h1>
+    <p>Αυτό το project χρησιμοποιεί τεχνητή νοημοσύνη για ανάλυση δεδομένων από τις αγορές Crypto και Forex.</p>
+    <p>Δημιουργήθηκε από τον Geraldo Siska.</p>
+</body>
+</html>
